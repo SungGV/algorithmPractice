@@ -1,1 +1,2 @@
-These are solutions to algorithm practice questions. The origin of the questions are shown on the folder. Some of them are incomplete and I'm using this page as a record.
+These are solutions to algorithm practice questions. A few of them are incomplete. 
+I'm using this page for the purpose of record
